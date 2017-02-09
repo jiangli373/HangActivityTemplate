@@ -1,0 +1,26 @@
+{
+  "name": "HangActivityTemplate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "excel-export": "^0.5.1",
+    "express": "~4.13.4",
+    "lodash": "^4.13.1",
+    "log4js": "^0.6.37",
+    "mysql": "2.7.0",
+    "nodemailer": "^1.3.4",
+    "nodemailer-smtp-pool": "^1.0.1",
+    "redis": "^2.6.2",
+    "serve-favicon": "~2.3.0",
+    "utility": "^1.9.0",
+    "wechat-api": "^1.28.0"
+  }
+}
